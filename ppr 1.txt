@@ -1,0 +1,42 @@
+THE SUPERIOR UNIVERSITY LAHORE
+Final - Term Exam
+Semester VI-VIL
+(Spring-2022)
+
+Faculty of Computer Science and Information Technology QCH:
+Subject: Information Security & Cryptography
+Instructor: Mr. Muhammad Arif, Mr, Saleem Butt, Ms. Faiqa ‘Total Marks: 840.
+aA
+(ee Instructions: 2)
+) Roll Nos 1. No cutting or overwriting is allowed.
+
+2. Use of mobile phone is strictly prohibited.
+
+be 3. Noextra time will be given.
+fs tee Allowed: 120 Min. * ai
+Question ‘Sub-Question LO. Total Marks
+1 - PEP ty 10
+2 2:3557; 10
+)3 2,3,4,6 10
+4 6,7 10
+
+Ql: One of the most attractive applications of public-key algorithms is
+the establishment of a secure session key for a private-key algorithm
+Stch as AES over an insecure channel.
+
+Assume Bob has a pair of public/private keys for the RSA cryptosystem.
+Develop a simple protocol using RSA which allows the two parties Alice
+and Bob to agree on a shared secret key. Who determines the key in this
+protocol, Alice, Bob, or both? (10- Marks)
+
+]
+Q2: Attempt any FIVE of the following: (5x2=10 Marks)
+
+1- Calculate 3?01mod 11?
+2- Verify Euler's theorem for m= 12 and a = 5.
+
+3- Perform encryption and decryption using RSA algorithm, for the
+
+following p = 5; q= 117 e = 37 x= 9
+
+Pes

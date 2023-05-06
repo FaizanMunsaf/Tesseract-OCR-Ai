@@ -1,0 +1,48 @@
+d- Differentiate preimage resistant and second preimage resistant in
+hashing.
+
+S- How we can strengthen hashes by using salting and peppering?
+
+- By using the method of Euclidean Algorithm find the GCD of (1900,
+1060).
+
+Q3: Consider you are working in INFINIT Lab as an Information Security
+Analyst and your colleagues Bob and Alice want to communicate in a secure
+manner. Since we know message authentication is a mechanism or service ~
+used to verify the integrity of a message. Considering the Message (x)
+authentication and Integrity as requirement of the secure communication,
+develop a simple protocol using digital signature and Hash function with
+nd without message encryption. In your protocols secure version:
+
+*
+
+- Hash code must be encrypted.
+
+- It also provides a digital signature, because only the Sender can
+produce the encrypted hash code. (10~ Marks)
+
+Q4: Consider we are in Key Scheduler Round. Use Rijandael and perform
+the step on cipher key. (10- Marks)
+
+- Table2 S-BOX ji —~<—-
+
+Table 1 Cipher Key
+
+2 1 2 3) 4-6 06 gee a RRR re
+0 6 7 7 7% R 6B SF CS 30 OL 67 2 FE O7 AB 75
+54°| 73°| 20 | 67 1 CA & © 7D FA 59 47 FO AD D4 AD AF OC AB 22 CO
+2037: 3% 35 FM CC AS GS OH OA OB OM 1S
+{ 3 048 CG 2B G 18 9% 05 9A O7 12 80 2 /ER 27 B2 7
+68 | 20 | 4B | 20 4 09 a3 2C 1A 18 GE SA AD 52 38 D6 83 29 £3 2F Bf
+5 53 pio [eo] 2 fc si so ck cB oo 39 aA cc cS
+oe 6 00 EF AA FB 43 40: 33, 5 45 FS 02 TF 50 30 OF AB
+6i | 6D | 75 | 46 ‘7 SLA3 40 GF 92 90 38 FS BC 86 DA 21 10 fF FR O2
+8c oc 3 EC SF 97 4% 7 Ch OAT 7 3D 64 5D 19 73
+9 0 81 4F DC 2 2A GO 88 45 EE G8 14 DE SE 0B DB
+74 | 79 | 6 | 75 A @ 32 3A 0A 49 05 2 SC C2 D3 AC G2 31 95 Ed 79
+B £7 C8 37 6D BD DS 4 AD GC 56 FA EA 65 7A AE OB
+€ 8A 78 25 2 1¢ AG BE CE ES 0D 74 IF 45 BD 98
+D 70 3 85 6 43 03 fF OF SL 35 57 88 86 Cl ID
+—£ 1 8 11 6 DD SE 94 Soe a7 OO CE SS 2B
+Table 3 R-Cow F aC AL 89 0D BF £6 42 GB 41 99 2 OF OO St BB
+
